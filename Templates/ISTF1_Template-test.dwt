@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+.style2 {font-size: 90px}
+-->
+</style>
+</head>
+<body>
+<!-- TemplateBeginEditable name="Header" -->
+<table width="100%" height="110" border="3">
+  <tr bgcolor="#54A13A">
+    <th bgcolor="#FFFFFF" scope="col">
+    	<span class="style2">Banner</span>
+    </th>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+
+<table width="100%"><tr valign="top"><td width="10%" valign="top">
+<!-- TemplateBeginEditable name="menu_item" -->
+<table width="142" height="406" border="3">
+  <tr>
+    <th width="128" scope="col"><div align="center"><a href="file:///Teachers/index.html" target="_self">HOME</a></div></th>
+  </tr>
+  <tr>
+    <td><div align="center"><a href="file:///Teachers/team.html" target="_self">TEAM</a></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><a href="file:///Teachers/component one.html" target="_self">Component one</a></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><a href="file:///Teachers/component two.html" target="_self">Compnent two</a></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><div align="center"><a href="file:///Teachers/everio/
+    ../component three.html" target="_self">Component three</a></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><a href="file:///Teachers/design.html" target="_self">DESIGN</a></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><a href="file:///Teachers/assesment.html" target="_self">ASSESSMENT</a></div></td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+
+</td><td width="90%" valign="top"><!-- TemplateBeginEditable name="mainContent" -->content<!-- TemplateEndEditable --></td>
+</tr></table>
+<p>&nbsp;</p>
+</body>
+</html>
